@@ -11,3 +11,12 @@ The text editor [Atom](https://atom.io) is aware of conflicts and displays the m
 with syntax highlighting!
 
 Here a line to try `git stash`.
+
+### Work with branches
+
+Now I have to learn about branches:  
+- the basics
+- how can I use different branches
+- how to switch between branches
+- commit the work done on the different branches
+- why I would work with such branches
