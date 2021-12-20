@@ -9,3 +9,5 @@ Here also, this line will create a merge conflict.
 I managed the conflict between both versions of `README.md`.
 The text editor [Atom](https://atom.io) is aware of conflicts and displays the merging conflicts
 with syntax highlighting!
+
+Here a line to try `git stash`.
