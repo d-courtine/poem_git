@@ -22,3 +22,6 @@ Now I have to learn about branches:
 - why I would work with such branches
 
 A haiku has been added in the repo.
+
+a test line after generating the token
+
