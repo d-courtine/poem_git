@@ -11,3 +11,6 @@ The text editor [Atom](https://atom.io) is aware of conflicts and displays the m
 with syntax highlighting!
 
 Here a line to try `git stash`.
+
+
+A haiku has been added in the repo.
