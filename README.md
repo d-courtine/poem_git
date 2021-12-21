@@ -20,3 +20,5 @@ Now I have to learn about branches:
 - how to switch between branches
 - commit the work done on the different branches
 - why I would work with such branches
+
+A haiku has been added in the repo.
